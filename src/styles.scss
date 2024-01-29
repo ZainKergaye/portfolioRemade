@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+// https://www.realtimecolors.com/dashboard?colors=060605-f7f8f6-889e70-b4c4a1-a1b884&fonts=JetBrainsMono%20Nerd%20Font-JetBrainsMono%20Nerd%20Font
+
+
+$themes: (
+ light: (
+   text: #060605,
+   background: #f7f8f6,
+   primary: #889e70,
+   secondary: #b4c4a1,
+   accent: #a1b884,
+ ),
+ dark: (
+   text: #fafaf9,
+   background: #080907,
+   primary: #798f61,
+   secondary: #4e5e3b,
+   accent: #647b47,
+ ),
+);
