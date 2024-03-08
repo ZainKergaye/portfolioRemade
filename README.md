@@ -5,3 +5,6 @@ https://andresjosehr.com/en
 
 ## Important for all angular projects: 
 Use --no-standalone tag for generation because of ease of use
+
+## FYI:
+When developing on other machines, run 'npm install' to get all dependancies
