@@ -1,0 +1,24 @@
+/* Custom Styles */
+body {
+	font-family: sans-serif;
+	color: #333;
+}
+
+#hero {
+	text-align: center;
+}
+
+#hero img {
+	max-width: 200px;
+}
+
+section {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+#projects .card-img-top {
+	height: 200px;
+	/* Adjust as needed */
+	object-fit: cover;
+}
